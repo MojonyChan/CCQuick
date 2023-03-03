@@ -1,0 +1,7 @@
+*.user
+
+# build files
+build/
+
+# binary files
+bin/
